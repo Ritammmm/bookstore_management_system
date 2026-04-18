@@ -71,11 +71,6 @@ http://localhost:3000
 - Frontend tested in browser  
 - CRUD operations verified  
 
----
-
-## Screenshots
-
-(Add screenshots here before submission)
 
 ---
 
